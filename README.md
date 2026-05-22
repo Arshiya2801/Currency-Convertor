@@ -17,11 +17,6 @@ A sleek and responsive Currency Converter web application built using **ReactJS*
 - **Tailwind CSS**
 - **Exchange Rate API** (e.g. [exchangerate-api.com](https://www.exchangerate-api.com/) or similar)
 
-## 📸 Screenshot
-
-> ![image](https://github.com/user-attachments/assets/0d781955-9b37-4411-9fc5-64fb618c0286)
- ![Currency Converter UI](./screenshot.png)
-
 ## Environment Variables
   To fetch real-time currency rates, set your API key in a .env file:
   ```bash
