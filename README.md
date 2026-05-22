@@ -3,7 +3,7 @@
 
 A sleek and responsive Currency Converter web application built using **ReactJS**, designed to convert between multiple international currencies in real-time with a clean user interface.
 
-## 🚀 Features
+## Features
 
 - Convert any amount between two currencies
 - Swap between "From" and "To" currencies
